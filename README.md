@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TNyokong 
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c++ programming language
-- 💞️ I’m looking to collaborate on any biginner c++ project
+- 💞️ I’m looking to collaborate on any beginner c++ project
 - 📫 Reach me @thapelonyoki@gimail.com
 
 <!---
