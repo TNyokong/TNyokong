@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TNyokong
-- 👀 I’m interested in Software development, application development and cloud computing 
-- 🌱 I’m currently learning flask framework
+- 👀 I’m interested in Software development, application development , Data Science, Machine Learning and Cloud Computing
+- 🌱 I’m currently learning flask framework 
 - 💞️ I’m looking to collaborate on an project that will contribute to my growth
 - 📫 Reach me at thapelonyoki@gmail.com
 
