@@ -1,15 +1,41 @@
-👋 Hi, I’m @TNyokong
+# 👋 Hi there, I'm Thapelo Nyokong (@TNyokong)
 
-🚀 I’m passionate about Software Development, Artificial Intelligence, Machine Learning, and Cloud Computing.
+🎓 I'm a Computer Systems Engineering graduate with a passion for building, learning, and exploring the power of technology.
 
-🔭 I’m currently learning the Flask framework and building web applications to sharpen my back-end skills.
+## 🚀 About Me
+- 💻 I enjoy building software applications using **Python** and **Flask**, but I'm always willing to learn other technologies and frameworks.
+- 🤖 I'm deeply interested in **Machine Learning** and **Artificial Intelligence** — currently exploring how they can solve real-world problems.
+- ☁️ I’m also diving into **Cloud Computing**, especially AWS, and how it integrates with secure, scalable systems.
+- 🔧 I love working on projects that stretch my understanding of networks, systems, and automation.
+- 🌱 Currently learning: **Flask**, **SQL**, **AWS Fundamentals**, and experimenting with **ML models** using Python.
 
-🤝 I’m open to collaborating on projects that help me grow and make a meaningful impact.
+## 🛠️ Tech Stack
+**Languages:**  
+`Python` | `HTML` | `CSS` | `C++` | `C` | `SQL`
 
-📫 You can reach me at: thapelonyoki@gmail.com
+**Frameworks & Tools:**  
+`Flask` | `Bootstrap` | `Git` | `GitHub` | `Vimware` | `Cisco Packet Tracer`| `AWS`
+
+**Fields of Interest:**  
+- Web Development
+- Networking & Cloud
+- Artificial Intelligence & Machine Learning
+- Cybersecurity
+- Systems Automation
+
+## 🔍 What I’m Looking For
+I'm looking to **collaborate on beginner-to-intermediate projects** in web development, cloud systems, or AI — anything that can help me grow my real-world skills.
+
+## 📫 Contact Me
+You can reach me at: **[thapelonyoki@gmail.com](mailto:thapelonyoki@gmail.com)**
+
+---
 
 
-<!---
+![TNyokong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNyokong&show_icons=true&theme=radical)
+
+
+---
 TNyokong/TNyokong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
