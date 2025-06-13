@@ -35,7 +35,4 @@ You can reach me at: **[thapelonyoki@gmail.com](mailto:thapelonyoki@gmail.com)**
 ![TNyokong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNyokong&show_icons=true&theme=radical)
 
 
----
-TNyokong/TNyokong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
