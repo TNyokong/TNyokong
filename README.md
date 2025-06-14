@@ -31,8 +31,3 @@ You can reach me at: **[thapelonyoki@gmail.com](mailto:thapelonyoki@gmail.com)**
 
 ---
 
-
-![TNyokong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TNyokong&show_icons=true&theme=radical)
-
-
-
