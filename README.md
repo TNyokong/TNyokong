@@ -3,7 +3,7 @@
 🎓 I'm a Computer Systems Engineering graduate with a passion for building, learning, and exploring the power of technology.
 
 ## 🚀 About Me
-- 💻 I enjoy building software applications using **Python** and **Flask**, but I'm always willing to learn other technologies and frameworks.
+- 💻 I enjoy building software applications using **Python** and **Flask**, **C#** and **.NET** but I'm always willing to learn other technologies and frameworks.
 - 🤖 I'm deeply interested in **Machine Learning** and **Artificial Intelligence** — currently exploring how they can solve real-world problems.
 - ☁️ I’m also diving into **Cloud Computing**, especially AWS, and how it integrates with secure, scalable systems.
 - 🔧 I love working on projects that stretch my understanding of networks, systems, and automation.
