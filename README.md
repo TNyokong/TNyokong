@@ -11,10 +11,10 @@
 
 ## 🛠️ Tech Stack
 **Languages:**  
-`Python` | `HTML` | `CSS` | `C++` | `C` | `SQL`
+`Python` | `HTML` | `CSS` | `C++` | `C#` | `C` | `SQL`
 
 **Frameworks & Tools:**  
-`Flask` | `Bootstrap` | `Git` | `GitHub` | `Vimware` | `Cisco Packet Tracer`| `AWS`
+`Flask` | `.NET`| `Bootstrap` | `Git` | `GitHub` | `Vimware` | `Cisco Packet Tracer`| `AWS`
 
 **Fields of Interest:**  
 - Web Development
