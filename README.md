@@ -1,33 +1,50 @@
-# 👋 Hi there, I'm Thapelo Nyokong (@TNyokong)
+👋 Hi there, I'm Thapelo Nyokong (@TNyokong)
 
-🎓 I'm a Computer Systems Engineering graduate with a passion for building, learning, and exploring the power of technology.
-
-## 🚀 About Me
-- 💻 I enjoy building software applications using **Python** and **Flask**, **C#** and **.NET** but I'm always willing to learn other technologies and frameworks.
-- 🤖 I'm deeply interested in **Machine Learning** and **Artificial Intelligence** — currently exploring how they can solve real-world problems.
-- ☁️ I’m also diving into **Cloud Computing**, especially AWS, and how it integrates with secure, scalable systems.
-- 🔧 I love working on projects that stretch my understanding of networks, systems, and automation.
-- 🌱 Currently learning: **Flask**, **SQL**, **AWS Fundamentals**, and experimenting with **ML models** using Python.
-
-## 🛠️ Tech Stack
-**Languages:**  
-`Python` | `HTML` | `CSS` | `C++` | `C#` | `C` | `SQL`
-
-**Frameworks & Tools:**  
-`Flask` | `.NET`| `Bootstrap` | `Git` | `GitHub` | `Vimware` | `Cisco Packet Tracer`| `AWS`
-
-**Fields of Interest:**  
-- Web Development
-- Networking & Cloud
-- Artificial Intelligence & Machine Learning
-- Cybersecurity
-- Systems Automation
-
-## 🔍 What I’m Looking For
-I'm looking to **collaborate on beginner-to-intermediate projects** in web development, cloud systems, or AI — anything that can help me grow my real-world skills.
-
-## 📫 Contact Me
-You can reach me at: **[thapelonyoki@gmail.com](mailto:thapelonyoki@gmail.com)**
+🎓 Computer Systems Engineering graduate with a strong interest in networking, cloud computing, and cybersecurity. I focus on building practical IT infrastructure knowledge through hands-on labs and real-world projects.
 
 ---
 
+## 🚀 About Me
+
+💻 I enjoy working with networking systems, including routing, switching, and network configuration using tools like Cisco Packet Tracer.  
+☁️ I am currently exploring cloud computing, especially AWS, and how modern cloud infrastructure supports scalable and secure systems.  
+🔐 I have a growing interest in cybersecurity, including network security, firewalls, and system protection.  
+🖧 I enjoy learning how systems connect, communicate, and stay secure in real environments.  
+🌱 Currently learning: Networking fundamentals, AWS basics, and cybersecurity concepts.
+
+---
+
+## 🛠️ Technical Focus
+
+**Networking:**  
+LAN/WAN, VLANs, VPNs, Routing & Switching, Network Troubleshooting  
+
+**Cloud Computing:**  
+AWS (IAM, VPC), Virtual Infrastructure Concepts  
+
+**Cybersecurity:**  
+Firewalls, IDS/IPS, Active Directory, Network Security Basics  
+
+**Tools:**  
+Cisco Packet Tracer | VMware | Git | Windows Server basics  
+
+---
+
+## 🎯 Career Interests
+
+- Network Engineering  
+- Cloud Support / Cloud Infrastructure  
+- SOC Analyst (Cybersecurity)  
+- IT Support / Infrastructure roles  
+
+---
+
+## 🤝 What I’m Looking For
+
+I am focused on gaining hands-on experience in networking, cloud infrastructure, and cybersecurity. I am open to entry-level opportunities, internships, and collaborative lab projects that help strengthen real-world IT skills.
+
+---
+
+## 📫 Contact
+
+📧 Email: thapelonyoki@gmail.com
