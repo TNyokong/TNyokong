@@ -1,4 +1,4 @@
-# 👋 Thapelo Nyokong | Network Technician → Cloud Network Engineer
+# 👋 Thapelo Nyokong | Network Engineer → Cloud Network Engineer
 
 📍 Gauteng, South Africa
 
